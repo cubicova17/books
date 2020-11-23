@@ -1,9 +1,9 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: High output management
+description: High output management
 date: 2020-03-28
 tags:
-  - second-tag
+  - middle-business
 layout: layouts/post.njk
 ---
 "High output management" - is the first (but not only) book📚 I recommend to the future managers. If I would be asked to summarize it’s key ideas, they would be:
