@@ -1,7 +1,7 @@
 ---
 title: The Algebra of Happiness
 description: The Algebra of Happiness: Notes on the Pursuit of Success, Love, and Meaning 
-date: 2018-09-30
+date: 2020-01-30
 tags: philosophy
 layout: layouts/post.njk
 ---
