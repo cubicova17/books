@@ -1,18 +1,20 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google
+description: The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google
+date: 2020-07-06
 tags:
-  - number-2
+  - philosophy
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
 
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+I’ve finished reading this book, and don’t even know whom to suggest it to) Perhaps, to the readers who see large IT corporations through rose-tinted glasses. Just as I did before reading it. I am now arriving at an understanding that these giants should be decomposed into smaller companies.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+“The Four” is a ruthless criticism and a micro-chronicle of the FAAG. The author does a great job of showing all the components making the business models of Amazon, Apple, Facebook, and Google successful, however, the book lacks a deeper dive into the DNA/culture itself. As an example, the topics of Amazon’s “obsession with the client”, Google’s engineering culture, or Apple’s designer culture are neglected completely.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+The main value of the book is an effort to describe the macro trends the four is standing on, their business models, and narratives. This, Scott has managed really well. It is full of interesting facts, jokes, and legends of when the author himself was present at the board meetings.
+
+At the end of the book, there’s almost a word for word part of his Algebra of Happiness, which, at the end of the day, is more applicable.
+Scott Galloway is an epic person, successful entrepreneur, and lecturer at NYU. A bit of a troll and an eccentric individual. He is a capitalist, dubbed a socialist by the republicans. He does yearly IT industry forecasts, which mostly come true, highly recommend his blog "No Mercy / No Malice"
+
+(Original post)[https://www.facebook.com/dmytriy.voloshyn/posts/10219390566649154]
