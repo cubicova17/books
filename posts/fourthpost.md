@@ -1,15 +1,16 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons.
+title: The Algebra of Happiness
+description: The Algebra of Happiness: Notes on the Pursuit of Success, Love, and Meaning 
 date: 2018-09-30
-tags: second-tag
+tags: philosophy
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The Algebra of Happiness: Notes on the Pursuit of Success, Love, and Meaning
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Я б хотів прочитати цю книжку, коли мені було 18. Перше, що хочеться зробити в цьому огляді — це закидати десятки цитат і висновків з неї, але не робитиму цього. Вона така цікава і її так легко читати, що забрати у вас насолоду прочитати її самостійно просто не наважуся. Книжку поділено на блоки: «Успіх», «Кохання», «Здоров’я», але насправді блоки переплетені між собою, адже лише разом ці компоненти допомагають бути щасливим. Попри заяложеність цих тем, книжка аж ніяк не про «успішний успіх».
 
-## Section Header
+Вона просякнута хорошим гумором і самоіронією. Сам автор — епічна персона, успішний підприємець і викладач Нью-Йоркського університету. Трішки троль й ексцентричний персонаж. Капіталіст, якого республіканці «обзивають» соціалістом. Нещадний критик і літописець великої четвірки FAAG. Щороку робить прогнози в ІТ-індустрії, які здебільшого здійснюються. Якби мені вдалося запросити когось з академічного середовища на борд директорів Preply, то це був би Скотт Ґалловей (ну, або Ден Арієлі).
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Нюанс — книжка все-таки для американців, тому деякі висновки й дослідження не можуть застосовуватися в Україні, але від цього не менш цінні.
 
+(Original post)[https://dou.ua/lenta/articles/dou-books-voloshyn/]
