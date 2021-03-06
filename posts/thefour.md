@@ -1,6 +1,6 @@
 ---
-title: The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google
-description: The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google
+title: "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google"
+description: "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google"
 date: 2020-07-06
 tags:
   - philosophy
