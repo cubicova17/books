@@ -1,6 +1,6 @@
 ---
-title: Radical Candor: Be a Kickass Boss Without Losing Your Humanity
-description: Radical Candor: Be a Kickass Boss Without Losing Your Humanity
+title: "Radical Candor: Be a Kickass Boss Without Losing Your Humanity"
+description: "Radical Candor: Be a Kickass Boss Without Losing Your Humanity"
 date: 2020-01-30
 tags: philosophy
 layout: layouts/post.njk
