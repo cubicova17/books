@@ -1,6 +1,6 @@
 ---
-title: An Elegant Puzzle: Systems of Engineering Management 
-description: An Elegant Puzzle: Systems of Engineering Management 
+title: "An Elegant Puzzle: Systems of Engineering Management"
+description: "An Elegant Puzzle: Systems of Engineering Management "
 date: 2020-01-30
 tags: middle-business
 layout: layouts/post.njk
